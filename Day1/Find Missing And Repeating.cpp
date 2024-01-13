@@ -1,3 +1,4 @@
+class Solution{
 public:
     vector<int> findTwoElement(vector<int> arr, int n) {
         // code here
@@ -24,3 +25,4 @@ public:
         
         return {repeatingNumber, missingNumber};
     }
+};
